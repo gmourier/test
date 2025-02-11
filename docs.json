@@ -1,0 +1,16 @@
+{
+	"$schema": "https://mintlify.com/docs.json",
+	"theme": "mint",
+	"name": "Meilisearch Documentation",
+	"favicon": "",
+	"colors": {
+	  "primary": "#FF5CB2",
+	  "light": "#FF5CB2",
+	  "dark": "#FF5CB2"
+	},
+	"navigation": {
+		"pages": [
+			"concat"
+		]
+	}
+}
