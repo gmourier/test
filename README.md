@@ -1,2 +1,2 @@
 - run `npm install -g mintlify`
-- run `mintlify`
+- run `mintlify dev`
